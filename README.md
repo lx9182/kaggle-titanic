@@ -30,7 +30,7 @@ So what kinds of passenger are most likely to survive?
 
 After training 100 epochs, model has 87% accuracy
 
-![Training Result](training_result.png)
+![Training Result](training_result.PNG)
 
 ## Licensing, Authors, Data
 All belong to Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
